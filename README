@@ -1,0 +1,5 @@
+Just a simple utility for converting data presented on a visual graph to numerical data (CSV) for further analysis or manipulation.
+
+This is a problem I've solved more "manually" in my day jobs, so, I figured it would be nice to automate it in an iOS app.
+
+I used Pythonista to build this app. I started with the Sketch example script that came packaged with Pythonista and built the rest of the stuff on top of it.
